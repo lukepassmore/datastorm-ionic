@@ -1,5 +1,7 @@
 {
   "name": "datastorm-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
